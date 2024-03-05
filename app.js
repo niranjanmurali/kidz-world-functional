@@ -121,6 +121,8 @@ function updateWhatsappLink() {
   whatsappLink += `%0A${"Total%20Price:%20$"}${finalDollars}%20${finalCents}c`;
 }
 
+// hedbhjagha
+
 // Cart Button Click Event
 cartButtonElement.addEventListener("click", () => {
   calculateTotalPrice();
