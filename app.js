@@ -109,7 +109,7 @@ function calculateTotalPrice() {
 }
 
 // WhatsApp Integration
-let whatsappLink = "https://api.whatsapp.com/send?phone=919025775763&text=Order%20details";
+let whatsappLink = "https://api.whatsapp.com/send?phone=916383623861&text=Order%20details";
 
 function updateWhatsappLink() {
   items.forEach((item) => {
